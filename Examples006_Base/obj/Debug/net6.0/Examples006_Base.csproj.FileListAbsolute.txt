@@ -1,0 +1,15 @@
+D:\Учёба\Практические задания\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.exe
+D:\Учёба\Практические задания\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.deps.json
+D:\Учёба\Практические задания\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.runtimeconfig.json
+D:\Учёба\Практические задания\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.dll
+D:\Учёба\Практические задания\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.pdb
+D:\Учёба\Практические задания\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.csproj.AssemblyReference.cache
+D:\Учёба\Практические задания\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Практические задания\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.AssemblyInfoInputs.cache
+D:\Учёба\Практические задания\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.AssemblyInfo.cs
+D:\Учёба\Практические задания\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.csproj.CoreCompileInputs.cache
+D:\Учёба\Практические задания\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.dll
+D:\Учёба\Практические задания\Examples\Examples006_Base\obj\Debug\net6.0\refint\Examples006_Base.dll
+D:\Учёба\Практические задания\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.pdb
+D:\Учёба\Практические задания\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.genruntimeconfig.cache
+D:\Учёба\Практические задания\Examples\Examples006_Base\obj\Debug\net6.0\ref\Examples006_Base.dll
